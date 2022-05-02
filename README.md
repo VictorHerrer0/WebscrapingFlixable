@@ -8,7 +8,7 @@ Webscraping is a process in which an individual writes code to interact with web
 In this case I used Beautifulsoup, a library built for webscraping, to extract data from a website called "Flixable".
 
 ## Process
-I wanted to extract a dataset containing the best rated Netflix-movies on Flixable. The idea is to automate this script so that every month I get a list of the best rated movies from the last two rolling-years.
+I wanted to extract a dataset containing the best rated Netflix-movies on Flixable. The idea is to automate this script so that every month I get a list of the best rated movies from the last two rolling-years. I wanted to automate the script using either task scheduler or the macOS calendar + automator.
 The first thing on the list was to extract the data and get comfortable using Beatifulsoup. The data cleaning process was rather simple.
 
 ## Code
